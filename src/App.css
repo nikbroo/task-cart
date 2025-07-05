@@ -52,6 +52,10 @@
   cursor: pointer;
 }
 
+.package-container div:nth-child(3) {
+  padding-top: 20px;
+}
+
 input[type="radio"] {
   accent-color: #ec4899;
   background-color: white;
@@ -61,7 +65,6 @@ input[type="radio"] {
   border-width: 2px;
   border-color: var(--color-primary);
   background-color: #fff9fa;
-  padding-top: 20px;
 }
 
 .most-popular {
